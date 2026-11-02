@@ -29,7 +29,7 @@ I'm a student passionate about technology, cybersecurity, and problem-solving. I
 
 | Category | Current Focus |
 |---|---|
-| Programming | Python, C++ |
+| Programming | Python, C++, HTML, MySQL|
 | Networking | IP, DNS, TCP, UDP |
 | Cybersecurity | Security Fundamentals |
 | Web | HTML |
