@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cyber-banner.png"
+  <img src="./Cyber-banner.png"
        width="100%"
        alt="Cybersecurity Banner">
 </p>
