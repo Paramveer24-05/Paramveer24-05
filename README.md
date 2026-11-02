@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./cyber-banner.png"
+       width="100%"
+       alt="Cybersecurity Banner">
+</p>
 # 👋 Hi, I'm Paramveer Mahida
 
 ### 🔐 Aspiring Cybersecurity Professional | Python Learner | Tech Enthusiast
